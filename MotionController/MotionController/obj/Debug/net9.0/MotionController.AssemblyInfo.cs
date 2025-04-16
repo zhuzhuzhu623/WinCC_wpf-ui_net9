@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MotionController")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ebd2b6bcd7c918cc35d5df051690a246ff538e88")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb08481487f24b1b5392c2829c5b35217abcc535")]
 [assembly: System.Reflection.AssemblyProductAttribute("MotionController")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MotionController")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

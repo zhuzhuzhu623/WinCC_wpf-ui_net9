@@ -76,7 +76,7 @@ namespace WinCC.Wpfui.Views.Pages {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/WinCC.Wpfui;component/views/pages/programpage.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/WinCC.Wpfui;V1.0.0.0;component/views/pages/programpage.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\..\Views\Pages\ProgramPage.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

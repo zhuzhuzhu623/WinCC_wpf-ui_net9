@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WinCC.Wpfui")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8dfb330d817d0e6befef486a648e7ab2483ff062")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb08481487f24b1b5392c2829c5b35217abcc535")]
 [assembly: System.Reflection.AssemblyProductAttribute("WinCC.Wpfui")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WinCC.Wpfui")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
